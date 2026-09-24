@@ -37,7 +37,7 @@ git clone https://github.com/hackintosh-user/Ethernet-notifier.git
 * Then, Cd into your folder where the clone is located
 
 ```zsh
-cd /path/to/Ethernet-notifier-main/
+cd /path/to/Ethernet-notifier-MASTER/
 ```
 
 Then make build.sh a exec binary via **chmod**:

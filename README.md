@@ -5,7 +5,7 @@ a Ethernet notifier for Hackintosh Systems to let you know when the ethernet cab
 ## Features
 
 * Seamless into macOS notifications
-* Very low resource need (needs only about 1MB of ram)
+* Very low resource need (needs only about 11MB of ram)
 * A menubar plugin that shows up as: **< .. >**
 
 

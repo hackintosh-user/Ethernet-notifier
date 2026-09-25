@@ -19,7 +19,7 @@
 * macOS Sequoia and later
 * Xcode command line tools (mainly for compiling manually, Head to [releases](https://github.com/hackintosh-user/Ethernet-notifier/releases) if you want the pre-built binary)
 * A working Hackintosh
-* A working ethernet on said hackintosh
+* A working ethernet driver & port on said hackintosh
 
 
 ## usage

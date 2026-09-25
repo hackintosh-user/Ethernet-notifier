@@ -2,7 +2,7 @@
 * A Ethernet notifier for Hackintosh Systems to let you know when the ethernet cable has went online!
 
 <img width="1920" height="1080" alt="Screenshot 2026-09-25 at 2 16 20 PM" src="https://github.com/user-attachments/assets/bc513e26-8bd6-4e05-9f11-3cf3a608c874" />
-
+* MacOS Sequoia with Ethernet-Notifier
 
 
 
